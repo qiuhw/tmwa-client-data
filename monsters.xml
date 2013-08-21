@@ -243,7 +243,7 @@
   <!--51 Froad-->
   <!--52 Troll-->
   <monster id="53" name="Butterfly" targetCursor="small">
-    <sprite>monsters/butterfly.xml|#660000,FF3300,FFCC99,FFCCCC</sprite>
+    <sprite>monsters/butterfly.xml|#a4b2b2,ffffff</sprite>
     <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
   </monster>
   <monster id="54" name="Cave Maggot" targetCursor="small">
@@ -505,5 +505,45 @@
     <sprite>monsters/slime.xml|#72982c,ffffff</sprite>
     <particlefx>graphics/particles/monster-angry-green-slime.particle.xml</particlefx>
     <sound event="hit">monsters/slime/slime-hit1.ogg</sound>
+  </monster>
+  <monster id="109" name="Red Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#660000,FF3300,FFCC99,FFCCCC</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
+  </monster>
+  <monster id="110" name="Green Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#115511,22aa22,99dd99</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
+  </monster>
+  <monster id="111" name="Dark Blue Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#222255,6666ff</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
+  </monster>
+  <monster id="112" name="Yellow Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#846211,dab333,fffb93,ffffff</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
+  </monster>
+  <monster id="113" name="Light Blue Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#16486e,498ec5,e4f2fc</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
+  </monster>
+  <monster id="114" name="Pink Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#56002f,930050,fe70bd,feb7de,ffffff</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
+  </monster>
+  <monster id="115" name="Black Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#111111,222222,333333,444444,555555,aaaaaa</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
+  </monster>
+  <monster id="116" name="Orange Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#80280f,b04810,ef681f,ffb830</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
+  </monster>
+  <monster id="117" name="Purple Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#4f0a76,8010c0,d699f7</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
+  </monster>
+  <monster id="118" name="Dark Green Butterfly" targetCursor="small">
+    <sprite>monsters/butterfly.xml|#104010,208020,30c030</sprite>
+    <sprite>monsters/accessories/generic-shadow-small-circle.xml</sprite>
   </monster>
 </monsters>
